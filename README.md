@@ -22,11 +22,7 @@ _Screenshot 4: Playing with Pluto._
 
 ### 🌐YouTube link
 
-<<<<<<< HEAD
 [Go to the youtube "My Pluto - video"](https://www.youtube.com/shorts/TM22RSGOwMw/)
-=======
-[Go to the youtube "My Pluto - video"](https://www.youtube.com/shorts/TM22RSGOwMw)
->>>>>>> 77f24db47ea8c349bbb7c5b65eded2f90ee15320
 
 ## Features
 
